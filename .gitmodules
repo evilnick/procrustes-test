@@ -1,0 +1,3 @@
+[submodule "procrustes"]
+	path = procrustes
+	url = git@github.com:evilnick/procrustes.git
